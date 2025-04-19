@@ -5,3 +5,5 @@ This is the source code of my shitty. but very strong antivirus. Currently the d
 it runs on python. but the GUI was made using a program called AutoRun Pro Enterprise http://www.longtion.com/autorunenterprise/autorunpro.htm
 
 There is a website i am hosting for this at http://server1.ilovetech0629.epizy.com:4556/SCNAV
+
+![scnav2](https://github.com/user-attachments/assets/78b195e9-aeb0-4b8e-94e5-28ec8799b0e9)
