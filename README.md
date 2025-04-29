@@ -4,11 +4,11 @@ Runs on Windows 7 and up.
 Prefered that you run on Windows 7, Because i tested and compiled it on there
 ![scnav1](https://github.com/user-attachments/assets/29f02931-0056-4908-812e-f19fc17fa020)
 Here is the main GUI!
-I edited it with Autorun Pro Enterprise (An old program from 2008)
+I edited it with Autorun Pro Enterprise (An old program from 2008) http://www.longtion.com/autorunenterprise/autorunpro.htm
 ![image](https://github.com/user-attachments/assets/f963ced8-5bc2-45fc-afb8-561bae9814ba)
 
 This is the source code of my shitty. but very strong antivirus. Currently the database im using is 1.1gb and has over 32 million virus hashs. 
-The scan / remove part of it runs on python. Version 3.8 for Windows 7 compatibility!!!!!  http://www.longtion.com/autorunenterprise/autorunpro.htm
+The scan / remove part of it runs on python. Version 3.8 for Windows 7 compatibility!!!!!  
 
 There is a website i am hosting for this at 
 You can go and download a compiled DVD ISO Installer over there! Get it fast because the server is only up for every now and then 
