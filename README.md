@@ -6,8 +6,8 @@ Prefered that you run on Windows 7, Because i tested and compiled it on there
 This is the source code of my shitty. but very strong antivirus. Currently the database im using is 1.1gb and has over 32 million virus hashs. 
 it runs on python. but the GUI was made using a program called AutoRun Pro Enterprise http://www.longtion.com/autorunenterprise/autorunpro.htm
 
-There is a website i am hosting for this at http://server1.ilovetech0629.epizy.com:4556/SCNAV
-You can go and download it there. 
+There is a website i am hosting for this at 
+You can go and download a compiled DVD ISO Installer over there! Get it fast because the server is only up for every now and then 
 
 I will add full source code here soon! just really lazy rn... sorry!
 
