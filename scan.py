@@ -1,3 +1,15 @@
+#  _________                           _______________   ________   .________
+# /   _____/ ____   ____ _____ ___  __ \_____  \   _  \  \_____  \  |   ____/
+# \_____  \_/ ___\ /    \\__  \\  \/ /  /  ____/  /_\  \  /  ____/  |____  \ 
+# /        \  \___|   |  \/ __ \\   /  /       \  \_/   \/       \  /       \
+#/_______  /\___  >___|  (____  /\_/   \_______ \_____  /\_______ \/______  /
+#        \/     \/     \/     \/               \/     \/         \/       \/ 
+
+# Made by the BACKDOOR INTERACTIVE TEAM!!
+# Phoenix, Adko5558, Theprebeta, Hinata, and a few more who inspired me with ideas thank you :D
+
+
+
 import hashlib
 import os
 import datetime
@@ -6,6 +18,7 @@ import ctypes
 import time
 from playsound import playsound
 
+# bases.txt must have a malware md5 hash line by line
 # d41d8cd98f00b204e9800998ecf8427e  zero byte file
 
 
